@@ -1,0 +1,24 @@
+/* MyComponent.css
+   Styles scoped to the .my-component wrapper so they only affect
+   the content rendered by MyComponent.tsx. */
+
+.my-component {
+  background-color: lightblue;
+  padding: 20px;
+  border: 1px solid blue;
+  border-radius: 5px;
+  text-align: center;
+  max-width: 400px;
+  margin: 0 auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.my-component h1 {
+  color: navy;
+  margin-bottom: 10px;
+}
+
+.my-component p {
+  font-size: 16px;
+  color: #333333;
+}
