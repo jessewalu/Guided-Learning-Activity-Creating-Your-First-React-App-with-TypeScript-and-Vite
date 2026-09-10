@@ -1,0 +1,11 @@
+/* index.css
+   Minimal global styles applied to the whole document. */
+
+:root {
+  font-family: system-ui, 'Segoe UI', Roboto, sans-serif;
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+}
