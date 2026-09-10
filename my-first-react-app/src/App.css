@@ -1,0 +1,10 @@
+/* App.css
+   Layout styles for the top-level App component.
+   Centers the content both vertically and horizontally in the viewport. */
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
